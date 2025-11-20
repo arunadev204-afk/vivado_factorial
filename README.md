@@ -1,4 +1,6 @@
 ## vivado_factorial
+## REG NUM :
+## NAME :
 ## EXPERIMENT:4 FACTORIAL OF N USING FUNCTION (VERILOG)
 ## TITLE
 Design and Implementation of Factorial of N Using Verilog Function on Boolean Board (Spartan-7 FPGA)
